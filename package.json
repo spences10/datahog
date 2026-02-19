@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/stordahl/lighthouse-datahog#readme",
   "dependencies": {
-    "glob": "^11.0.0",
+    "glob": "^13.0.0",
     "lighthouse": "^12.0.0"
   }
 }
